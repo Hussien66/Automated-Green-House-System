@@ -59,11 +59,5 @@ The system is designed to help farmers **monitor and control** critical environm
 
 ---
 
-## 📷 Project Demo
 
-*Coming Soon – Images and video demo of the system in action.*
-
----
-
-## 📁 Folder Structure
 
